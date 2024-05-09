@@ -1,2 +1,2 @@
 - Perfil desativado
-- github.com/miguelferreiraZ
+- https://www.github.com/miguelferreiraZ
